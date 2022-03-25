@@ -1,0 +1,105 @@
+    body {
+        background-color: rgb(189, 179, 179);
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(71, 70, 70);
+        text-align: center;
+        font-size: 10pt;
+        margin: inherit;
+        margin: initial;
+        margin: unset;
+        height: 100%;
+        width: 100%;
+    }
+    /*--------Page index----------*/
+    
+    #botoes {
+        text-align: center;
+        height: 4vh;
+    }
+    
+    #imagem1 img {
+        border-radius: 50%;
+        border: solid rgb(10, 10, 10) 1px;
+        position: center;
+        width: 20vw;
+        padding-bottom: 0;
+    }
+    
+    #sobre-mim {
+        position: relative;
+    }
+    
+    #hello-about-me {
+        text-align: center;
+        height: 15vh;
+        position: relative;
+    }
+    
+    .botoes {
+        position: relative;
+        align-items: flex-end;
+        bottom: 0px;
+        min-width: 50%;
+        max-width: 100%;
+        min-height: 50%;
+        max-height: 100%;
+        border: none;
+    }
+    
+    .footer {
+        background-color: rgb(230, 21, 49);
+        width: 100%;
+        margin-bottom: 0px;
+        margin-top: 80px;
+        position: relative;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    
+    #emailicon {
+        padding-top: 5vh;
+        height: 10vh;
+        text-align: center;
+        font-size: 13pt;
+        color: black;
+        bottom: 10vh;
+        font-family: 'Trebuchet MS', sans-serif;
+        padding-top: 10px;
+    }
+    
+    #contatoemail {
+        font-size: 13pt;
+        color: black;
+        text-align: center;
+        height: 50vh;
+    }
+    /* ----------- Page education --------------*/
+    
+    #buttonhome2 {
+        position: relative;
+        text-align: center;
+    }
+    
+    #education {
+        font-size: 15pt;
+    }
+    /* ----------- Page experience --------------*/
+    
+    #experience {
+        font-size: 15pt;
+    }
+    
+    #buttonhome3 {
+        position: relative;
+        text-align: center;
+    }
+    /*----------------Page about-me----------------*/
+    
+    #sobre-mim2 {
+        font-size: 15pt;
+    }
+    
+    #footer {
+        background-color: rgb(230, 21, 49);
+        height: 20vh;
+    }
