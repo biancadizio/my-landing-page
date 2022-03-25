@@ -79,6 +79,13 @@
         position: relative;
         text-align: center;
     }
+    /*
+    #botaohome:hover {
+        color: aqua;
+        border-color: aqua;
+        border: solid 8px;
+    }
+    */
     
     #education {
         font-size: 15pt;
